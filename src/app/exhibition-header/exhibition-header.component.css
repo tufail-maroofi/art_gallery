@@ -1,0 +1,66 @@
+
+.switch-wrap {
+    margin-bottom: 10px;
+  }
+  
+  .switch-wrap p {
+    margin: 0;
+  }
+  
+  .about-content {
+    padding: 150px 0px;
+    text-align: center;
+  }
+  
+  .about-content h1 {
+    font-size: 48px;
+    font-weight: 300;
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .about-content a {
+    color:#fff;
+    font-weight: 450;
+    font-size: 14px;
+  }
+  
+  .display-table {
+    display: table;
+  }
+  
+  .light {
+    color:#fff;
+  }
+  
+  .dark {
+    color: #222;
+  }
+  
+  .relative {
+    position: relative;
+  }
+  
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  
+  .overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  
+  .banner-area {
+    background: url(../../assets/Images/header-bg.jpg) center;
+    background-size: cover;
+  }
+  
+  .banner-area .overlay-bg {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+
+  /* End Exhibition Header Css */
+  
