@@ -224,7 +224,7 @@
   .primary-btn:hover {
     color: #ee7c12e0;
     background-color: transparent;
-    border-color: #ee7c12e0;
+    /* border-color: #ee7c12e0; */
     font-style: italic;
   }
   
